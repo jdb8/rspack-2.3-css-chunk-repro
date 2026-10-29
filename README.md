@@ -52,4 +52,4 @@ The [upstream change to initial CSS loading](https://github.com/web-infra-dev/rs
 
 Generated bundles are in `dist/2.2.0/` and `dist/2.3.0/`. The local lockfile is ignored so a registry-specific install does not make the reproduction depend on a private registry. Both top-level core versions and their native binding versions are exact.
 
-[ISSUE.md](ISSUE.md) contains a draft upstream report. The issue has not been submitted.
+Upstream issue: [web-infra-dev/rspack#16349](https://github.com/web-infra-dev/rspack/issues/16349).
