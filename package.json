@@ -1,0 +1,12 @@
+{
+  "name": "rspack-2.3-css-chunk-repro",
+  "private": true,
+  "description": "Reproduce initial shared CSS ChunkLoadError in Rspack 2.3.0",
+  "scripts": {
+    "test": "node repro.mjs"
+  },
+  "devDependencies": {
+    "rspack-2-2": "npm:@rspack/core@2.2.0",
+    "rspack-2-3": "npm:@rspack/core@2.3.0"
+  }
+}
